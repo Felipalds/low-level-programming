@@ -1,0 +1,2 @@
+-> Latência e concorrência
+-> Velocidade
